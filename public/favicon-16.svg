@@ -1,0 +1,15 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="16" height="16" rx="3" fill="#00DDB3"/>
+  <path d="M 10.438 4.328 c -2.188 0 -3 1.562 -3.656 2.812 l -.438 .813 c -.688 1.344 -1.188 2.125 -2.531 2.125 a .625 .625 0 0 0 -.438 .188 a .625 .625 0 0 0 0 .875 a .625 .625 0 0 0 .438 .188 c 2.188 0 3 -1.562 3.656 -2.812 l .438 -.813 c .688 -1.344 1.188 -2.125 2.531 -2.125 a .625 .625 0 0 0 .438 -.188 a .625 .625 0 0 0 .188 -.438 a .625 .625 0 0 0 -.625 -.625 z" 
+        fill="white"/>
+  <g transform="translate(8.922, 8.25)">
+    <circle cx="2.5" cy="2.5" r="2" 
+            stroke="white" 
+            stroke-width="0.9" 
+            fill="none"/>
+    <line x1="3.8" y1="3.8" x2="5.2" y2="5.2" 
+          stroke="white" 
+          stroke-width="0.9" 
+          stroke-linecap="round"/>
+  </g>
+</svg>
